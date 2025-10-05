@@ -7,7 +7,7 @@ A complete **Todo App** built with **Flutter** and **Firebase**, designed to hel
 ## ✨ Features
 
 - 📝 **Add, Edit, and Delete Tasks** – Manage your daily todos easily.  
-- 🔥 **Firebase Integration** – Real-time sync using **Cloud Firestore**.  
+- 🔥 **Firebase Integration**.  
 - 🌞🌚 **Theme Mode** – Switch between **Light** and **Dark** themes seamlessly.  
 - 🌍 **Localization Support** – Available in **English** 🇬🇧 and **Arabic** 🇪🇬.   
 
