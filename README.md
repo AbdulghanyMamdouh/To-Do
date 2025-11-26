@@ -24,11 +24,13 @@ A complete **Todo App** built with **Flutter** and **Firebase**, designed to hel
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & Demo
 
-> *(Add your app screenshots here)*  
-> Example:  
-> ![Todo App Screenshot](link_to_image)
+To view all application screens, demo videos, and UI previews, you can check the full Google Drive folder:
+
+> 👉 **[Click here to open the Demo Folder](https://drive.google.com/drive/folders/1amaE7qo548no5szvAnGM2-eAohfOqI_h)**  
+> Contains: Login, Home Screens, Case Management, Search, Admin Panel, Add Employee, and more.
+
 
 ---
 
